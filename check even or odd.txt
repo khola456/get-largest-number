@@ -1,0 +1,9 @@
+let k = 0;
+for (k = 0 ;k <=15 ; k++ ){
+    if (k % 2 ===0){
+        alert("the number is even");
+    }
+else {
+    alert ("the number is odd");
+ }
+}
